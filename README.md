@@ -16,7 +16,7 @@ It delivers a **smooth user experience**, helping potential members learn about 
 - **JavaScript** – For interactive elements  
 
 ## 📷 **Screenshot**
-!Screenshot 2025-08-14 at 21.17.13
+<img src="/assets/Screenshot 2025-08-14 at 21.17.13" alt="Screenshot of the business landing page" />
 
 
 
