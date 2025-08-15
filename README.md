@@ -13,7 +13,7 @@ It delivers a **smooth user experience**, helping potential members learn about 
 ## 🛠 **Tech Stack**
 - **HTML5** – Semantic structure  
 - **CSS3** – Flexbox & Grid for styling and responsiveness  
-- **JavaScript** – For interactive elements  
+- **JavaScript** – For interactive elements   
 
 ## 📷 **Screenshot**
 <img src="/assets/Screenshot 2025-08-14 at 21.17.13.png" alt="Screenshot of the business landing page" />
